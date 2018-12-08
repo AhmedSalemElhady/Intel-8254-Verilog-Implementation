@@ -20,17 +20,11 @@ always @(posedge clk,rst) begin
 		counter_current_state <= 16'b0; // the reset is negatove valued
 	end
 	else begin
-	     	if(enable) begin// inverted value:
+	     	if(enable) // inverted value:
 			counter_current_state <= counter_current_state;
-		end
 		else begin
-			if(load) begin
-				
-				counter_current_state <= new_count;
-			end
-			else begin
-				counter_current_state <= (counter_current_state == COUNTER_BASE)? COUNTER_BASE : counter_current_state-COUNTER_DECREMENT;
-			end
+			if(load) counter_current_state <= new_count;
+			else counter_current_state <= (counter_current_state == COUNTER_BASE)? COUNTER_BASE : counter_current_state-COUNTER_DECREMENT;
 		end
 	end 
 end

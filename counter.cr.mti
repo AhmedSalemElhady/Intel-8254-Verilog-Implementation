@@ -9,7 +9,7 @@ Top level modules:
 } {} {}} {B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter.v} {2 {vlog -work work -stats=none {B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module Counter
-** Warning: B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v(42): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v(36): (vlog-2283) Extra semicolon in $unit (global) scope.
 
 Top level modules:
 	Counter

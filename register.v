@@ -8,7 +8,7 @@ module Dflipflop(
 
 localparam[15:0] BASE_RESET = 16'b0000_0000;
 reg output_value_output;
-always @(negedge clk, rst) begin
+always @(posedge clk, rst) begin
 
 	if(rst) output_value_output <= BASE_RESET;
 	else output_value_output <= (enable)? input_value: output_value_output;
