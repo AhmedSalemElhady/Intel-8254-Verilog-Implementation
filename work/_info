@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dB:/lectures and assignements/Fall 2018/Logic 2/lab Requirement
+vCounter
+Z0 !s110 1544288298
+!i10b 1
+!s100 TGIWhW3YB@WdFS1>B`fk`2
+IiTi@N]=FBK0`^8zSMaCC`2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study
+w1544288182
+8B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v
+FB:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1544288298.000000
+!s107 B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@counter
+vDflipflop
+R0
+!i10b 1
+!s100 ZT;al<Q3NRMPfcX[h_hdj0
+IQ1;:Ao?Vi9CDTXkcEa[bk1
+R1
+R2
+w1544287200
+8B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\register.v
+FB:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\register.v|
+!i113 1
+R5
+R6
+n@dflipflop
+vMode0
+R0
+!i10b 1
+!s100 >J0A1E7=gda8?]`GH`0901
+IiY9=RCnEF21aez3mS`Qj@2
+R1
+R2
+w1544288239
+8B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\Mode_0.v
+FB:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\Mode_0.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\Mode_0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\Mode_0.v|
+!i113 1
+R5
+R6
+n@mode0
+vtb_counter
+R0
+!i10b 1
+!s100 =d8T4Hg_T^_>L4J7I9=L]3
+I0l7SH[Q_EhJ1ED5j[g8G_0
+R1
+R2
+w1544282741
+8B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter_testbench.v
+FB:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter_testbench.v|
+!i113 1
+R5
+R6
