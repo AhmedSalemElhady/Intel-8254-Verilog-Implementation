@@ -1,0 +1,49 @@
+force -freeze sim:/Mode1/clk 0 0, 1 {50 ps} -r 100
+add wave -position end  sim:/Mode1/msb
+force -freeze sim:/Mode1/msb 0 0
+run
+force -freeze sim:/Mode1/lsb 11 0
+force -freeze sim:/Mode1/gate 1 0
+run
+force -freeze sim:/Mode1/gate 0 0
+force -freeze sim:/Mode1/lsb 00000100 0
+run
+run
+force -freeze sim:/Mode1/gate 1 0
+run
+force -freeze sim:/Mode1/gate 0 0
+run
+run
+force -freeze sim:/Mode1/lsb 10 0
+force -freeze sim:/Mode1/gate 1 0
+run
+force -freeze sim:/Mode1/gate 0 0
+run
+run
+run
+run
+force -freeze sim:/Mode1/lsb 101 0
+run
+force -freeze sim:/Mode1/gate 1 0
+run
+force -freeze sim:/Mode1/gate 0 0
+run
+force -freeze sim:/Mode1/lsb 1 0
+force -freeze sim:/Mode1/gate 1 0
+run
+force -freeze sim:/Mode1/gate 0 0
+run
+run
+run
+run
+run
+force -freeze sim:/Mode1/lsb 00000010 0
+run
+force -freeze sim:/Mode1/lsb 00000011 0
+force -freeze sim:/Mode1/gate 1 0
+run
+run
+force -freeze sim:/Mode1/gate 0 0
+run
+run
+run
