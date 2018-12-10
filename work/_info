@@ -9,29 +9,29 @@ z2
 cModel Technology
 dB:/lectures and assignements/Fall 2018/Logic 2/lab Requirement
 vCounter
-Z0 !s110 1544298611
+Z0 !s110 1544472113
 !i10b 1
 !s100 FZ3dGJBZ=@aBj[Jd9SPF92
-Indi]SkI2jfR?k]fVz;@_I3
+IC[>jo48iX]V0:mG?hWaWA0
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study
-w1544289405
-8B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter.v
-FB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter.v
+w1544462076
+8B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v
+FB:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v
 L0 1
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1544298611.000000
-!s107 B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter.v|
-!s90 -reportprogress|300|-work|work|-stats=none|B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter.v|
+Z4 !s108 1544472113.000000
+!s107 B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:\lectures and assignements\Fall 2018\Logic 2\Lab Exam 2 study\counter.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
 n@counter
 vDflipflop
-Z7 !s110 1544298612
+Z7 !s110 1544472114
 !i10b 1
 !s100 dCRnzH8U0VX<ciGX_?M;U2
 I[Qd51XCn0dE?4P570g2V00
@@ -45,7 +45,7 @@ R3
 r1
 !s85 0
 31
-Z8 !s108 1544298612.000000
+Z8 !s108 1544472114.000000
 !s107 B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/register.v|
 !s90 -reportprogress|300|-work|work|-stats=none|B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/register.v|
 !i113 1
@@ -55,11 +55,11 @@ n@dflipflop
 vMode0
 R7
 !i10b 1
-!s100 ?CI<2F@EcN;_=;o;gbh7l0
-IWHASFiS[fRL4F?ERL]]Hg0
+!s100 XKhY3HhC>5cXX30D`bJ?l2
+IL]bQS:OASmgUUz]38TBBD3
 R1
 R2
-w1544294616
+w1544471262
 8B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/Mode_0.v
 FB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/Mode_0.v
 L0 1
@@ -77,11 +77,11 @@ n@mode0
 vtb_counter
 R0
 !i10b 1
-!s100 =d8T4Hg_T^_>L4J7I9=L]3
-Im_oKNz9KVdS@>eKHO6bJ90
+!s100 ;j;n<7L;n34jWUjoPoG7C3
+I5fS=H6CNE06`D``Z8Qf?D1
 R1
 R2
-w1544282741
+w1544460594
 8B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter_testbench.v
 FB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/counter_testbench.v
 L0 1
@@ -95,3 +95,25 @@ R4
 !i113 1
 R5
 R6
+vtb_Mode0
+R7
+!i10b 1
+!s100 JHWdF4eUiGQ>VcS[22C[S2
+IBR;54J[9HLO?>;fzOKnjU3
+R1
+R2
+w1544472109
+8B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/tb_Mode0.v
+FB:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/tb_Mode0.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/tb_Mode0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|B:/lectures and assignements/Fall 2018/Logic 2/Lab Exam 2 study/tb_Mode0.v|
+!i113 1
+R5
+R6
+ntb_@mode0

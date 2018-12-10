@@ -14,7 +14,7 @@ localparam VOLTAGE_HIGH = 1'b1;
 
 reg[15:0] counter_current_state;
 
-always @(posedge clk,rst) begin
+always @(posedge clk,posedge rst) begin
 
 	if(rst == 1'b0) begin
 		counter_current_state <= 16'b0; // the reset is negatove valued
@@ -22,7 +22,6 @@ always @(posedge clk,rst) begin
 	else begin
 	     	if(enable) // inverted value:
 			counter_current_state <= counter_current_state;
-
 		else begin
 			if(load) counter_current_state <= new_count;
 			else counter_current_state <= (counter_current_state == COUNTER_BASE)? COUNTER_BASE : counter_current_state-COUNTER_DECREMENT;

@@ -21,7 +21,9 @@ initial begin
 	load=1'b0; #60
 	// interrupt the counting, restart from 4
 	load=1'b1;
+	enable=1'b1;
 	new_count = 16'b0000_0100;#10
+	enable=1'b0;#10
 	load=1'b0; #300
 	$finish;	
 end
