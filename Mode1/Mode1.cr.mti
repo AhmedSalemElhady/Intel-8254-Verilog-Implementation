@@ -1,0 +1,8 @@
+{D:/University/Semester 7 Fall 20178/Logic design 2/Project/Mode1 my part/Mode1.v} {1 {vlog -work work -stats=none {D:/University/Semester 7 Fall 20178/Logic design 2/Project/Mode1 my part/Mode1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Mode1
+
+Top level modules:
+	Mode1
+
+} {} {}}
